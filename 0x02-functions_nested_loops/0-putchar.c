@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * main-Etry point
  * Return: Always 0
