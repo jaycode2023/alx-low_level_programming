@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *  * main-Etry point
+ * main-Etry point
  * Return: Always 0
 */
 int main(void)
@@ -16,4 +16,3 @@ int main(void)
         _putchar('\n');
         return (0);
 }
-
