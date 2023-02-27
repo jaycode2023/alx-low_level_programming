@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 /**
- * swap_int_ Swaps the values of the two integers
+ * swap_int - Swaps the values of the two integers.
  * @a: The first integer to be swapped .
- * @b: The second integer to be sawped.
+ * @b: The second integer to be sawpped.
  *
  * Return: nothing
  */
 
-void swap_int (int *a, int *b)
+void swap_int(int *a, int *b)
 	/* the function that swaps the values of two integers. */
 {
 	int temp = *a;
